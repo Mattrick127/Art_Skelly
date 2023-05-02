@@ -1,8 +1,15 @@
+@font-face {
+    font-family: punk-kid-font;
+    src: url(punk-kid.ttf);
+}
+
 header h1 {
+    font-family: punk-kid-font;
     font-weight: bold;
     margin: 0;
-    font-size: 32px;
+    font-size: 64px;
     text-align: center;
+
 
     /* https://www.1001fonts.com/punk-kid-font.html; */
 }
