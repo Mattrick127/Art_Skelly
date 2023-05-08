@@ -44,6 +44,8 @@ header nav ul li a:hover {
   text-shadow: none;
 }
 
+
+/* ABOUT ARTIST STYLES START */
 .about p {
   font-family: punk-kid-font;
   src: url(punk-kid.ttf);
@@ -68,6 +70,11 @@ header nav ul li a:hover {
 #goat {
   float: right;
   margin: 0 0 0 15px;
+}
+
+/* ART GALLERY STYLES START */
+.artistry {
+  background-color: red;
 }
 
 
