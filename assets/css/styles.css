@@ -74,6 +74,8 @@ header nav ul li a:hover {
 
 /* ART GALLERY STYLES START */
 .artistry {
+  margin: 50px auto;
+  padding-bottom: 50px;
   background-color: red;
 }
 
